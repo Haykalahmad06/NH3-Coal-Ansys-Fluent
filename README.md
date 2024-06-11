@@ -18,3 +18,6 @@ NH3 → 0.5N2 + 1.5 H2	AT^1.25 e^((-E)⁄((T) )) [NH_3]	                        
 
 Hydrogen Combustion (J. P. Kim et al., 2008)		
 H2 + 0.5O2 → H2O	AT^0 e^((-E)⁄((T) )) [H_2 ] [O_2 ]^0.5	                                                  5.69×10^11	1.47×10^8
+
+
+The paper is still in review. Will be updated after published.
