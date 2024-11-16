@@ -1,4 +1,7 @@
 # NH3-Coal-Ansys-Fluent
+This is the scm of paper https://doi.org/10.1016/j.energy.2024.133414
+Numerical study on ammonia injection location of ammonia and low-rank coal cofiring in 1000 MWe ultra super critical carolina-type boiler
+
 Program Material in Fluent for ammonia-coal cofiring
 
 Reaction provides in the program
@@ -20,4 +23,4 @@ Hydrogen Combustion (J. P. Kim et al., 2008)
 H2 + 0.5O2 → H2O	AT^0 e^((-E)⁄((T) )) [H_2 ] [O_2 ]^0.5	                                                  5.69×10^11	1.47×10^8
 
 
-The paper is still in review. Will be updated after published.
+
